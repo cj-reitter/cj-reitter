@@ -22,7 +22,6 @@
 - Minor in business administration
 - Love anything to do with Python and Data Science
 - I'm currently learning and working on web development
-- Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for a new job opportunity or internship, this is [my resume](https://drive.google.com/file/d/135M16Whsj0aNo8F-CeQxqcrlPzBGW-Ta/view?usp=sharing)
 
 <br><br>
