@@ -47,6 +47,7 @@
 
 - **Libraries**:
 
+	![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 	![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 	![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 	![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -132,7 +133,7 @@
 
 Credit for Template: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 24/01/2026
+Last Edited on: 28/01/2026
 
 
 <!--
