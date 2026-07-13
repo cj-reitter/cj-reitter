@@ -18,11 +18,11 @@
 
 <br>
 
-- Third Year Data Science and Artifiical Intelligence BSc at Leiden University
+- Data Science and Artifiical Intelligence BSc 2026 Graduate at Leiden University
 - Minor in business administration
-- Love anything to do with Python and data science related
-- I'm currently learning and working on web development for my thesis and as a passion project.
-- I’m currently open for a new job opportunity or internship, this is [my resume](https://drive.google.com/file/d/135M16Whsj0aNo8F-CeQxqcrlPzBGW-Ta/view?usp=sharing)
+- Love anything to do with Python and data science, but am open to learning and growing in any field of computer science
+- I'm currently learning and working on web development and AI integration as a passion project.
+- I’m currently open for a new job opportunity or internship in computer science, this is [my resume](https://drive.google.com/file/d/135M16Whsj0aNo8F-CeQxqcrlPzBGW-Ta/view?usp=sharing)
 
 <br><br>
 
